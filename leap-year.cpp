@@ -19,7 +19,7 @@ int main(){
     }
     else
     {
-        cout<<year<<"ia not a Leap year "<<endl;
+        cout<<year<<"is not a Leap year "<<endl;
     }
     
 
