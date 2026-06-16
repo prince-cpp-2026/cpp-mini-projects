@@ -23,7 +23,7 @@ int main(){
             break;
             case '/':
             if(num2 == 0){
-                cout<<"Error:Cannot divided by 0"<<endl;
+                cout<<"Error:Cannot divide by 0"<<endl;
             }
             else
             {
@@ -36,7 +36,7 @@ int main(){
         cout<<"Continue? y/n: ";
         cin>>choice;
     }
-    while(choice == 'y' || choice == 'y');
+    while(choice == 'y' || choice == 'Y');
 
     cout<<"Calculator closed."<<endl;
 
